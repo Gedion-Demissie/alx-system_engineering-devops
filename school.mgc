@@ -1,0 +1,5 @@
+[master 4b74d89] school.mgc
+ 3 files changed, 3 insertions(+)
+ create mode 100644 0x00-shell_basics/fake_school1
+ create mode 100644 0x00-shell_basics/file_school0
+ create mode 100644 0x00-shell_basics/file_school1
